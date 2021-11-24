@@ -13,6 +13,3 @@ configs:
     - name: staging
       parameters: 
         protected-branches: false
-        secrets:
-          - name: SPN_ID
-            value: ${{inputs.secret}}
