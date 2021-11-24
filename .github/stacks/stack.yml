@@ -1,8 +1,8 @@
 name: env-bug
 description: Uncomment and modify the sections to configure your own amazing stack.
 branding:
-  icon: bell # https://feathericons.com/
-  color: blue # hex accepted
+  icon: bell 
+  color: blue 
 
 inputs:
   - name: secret
